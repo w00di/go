@@ -18,3 +18,4 @@ func main() {
 - Lists packages referenced in the file
 - Go only imports whole packages
 - All Go programs start from the `main` function
+- `go build` creates an executable called `hello_world`
